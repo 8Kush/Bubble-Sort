@@ -22,6 +22,7 @@ void main()
    }
   }
  }
+ printf("\nSorted array is:");
  for(i=0;i<size;i++)
  {
   printf("\t%d",a[i]);
